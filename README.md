@@ -24,3 +24,7 @@ En este proyecto me enfoqué en construir la clonación de la interfaz de Google
 
 ## 3. Objetivo del Proyecto
 Aprender a utilizar las etiquetas estándar de HTML5 y los estilos de CSS3.
+
+## Versión Escritorio
+
+<img src="https://github.com/YuDiCC/Clon_Interfaz_de_Google/blob/main/clonacion_google.jpeg" alt="Clonación de la Interfaz de Google"/>
